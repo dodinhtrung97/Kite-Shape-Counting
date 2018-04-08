@@ -47,7 +47,6 @@ public class Omyim {
      * SOURCE: https://gist.github.com/linzhp/5efdf01533cf5d2d8271#file-app-java
      * The original code dealt with triangle counting
      * The code has been modified to work with Omyim shape counting
-     * (I didn't do the triangle counting question in midterm so it's not cheating right?)
      * @param graph
      * @return
      */
